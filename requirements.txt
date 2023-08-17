@@ -3,7 +3,6 @@ aiofiles
 aioshutil
 anytree
 apscheduler
-aria2p
 asyncio
 beautifulsoup4
 bencoding
@@ -36,4 +35,5 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+git+https://github.com/pawamoy/aria2p.git
+git+https://github.com/yt-dlp/yt-dlp.git
