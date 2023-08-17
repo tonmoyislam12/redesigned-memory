@@ -28,7 +28,6 @@ pymongo
 pyrogram==2.0.77
 python-dotenv
 python-magic
-qbittorrent-api
 requests
 telegraph
 tenacity
