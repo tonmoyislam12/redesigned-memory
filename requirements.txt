@@ -35,5 +35,3 @@ tenacity
 tgcrypto
 uvloop
 xattr
-git+https://github.com/pawamoy/aria2p.git
-git+https://github.com/yt-dlp/yt-dlp.git
